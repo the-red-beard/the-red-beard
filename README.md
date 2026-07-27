@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/murdock.png" alt="the-red-beard" width="460">
+  <img src="assets/portrait-v2.png" alt="the-red-beard" width="460">
 </p>
 
 <h3 align="center">Amir · Software Engineer</h3>
